@@ -1,4 +1,4 @@
-# ArrowMind: Puzzle Path — legal & support pages
+# Arrow Mind: Puzzle Path — legal & support pages
 
 Live site: **https://daymonth.github.io/arrow-mind-puzzle-path-legal/**
 Repository: `DayMonth/arrow-mind-puzzle-path-legal` (public, GitHub Pages from `main` / root).

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the ArrowMind: Puzzle Path legal & support pages.
+"""Generate the Arrow Mind: Puzzle Path legal & support pages.
 
 Run from anywhere:  python3 build_legal_pages.py [out_dir]
 Default out_dir is the directory containing this script.
@@ -12,9 +12,9 @@ import c_privacy
 import c_terms
 import c_support
 
-GAME_EN = "ArrowMind: Puzzle Path"
+GAME_EN = "Arrow Mind: Puzzle Path"
 GAME_LOCAL = {
-    "en": "ArrowMind: Puzzle Path",
+    "en": "Arrow Mind: Puzzle Path",
     "zh-CN": "ArrowMind：谜题之路",
     "zh-TW": "ArrowMind：謎題之路",
     "ja": "ArrowMind：パズルパス",
@@ -247,18 +247,18 @@ def index_page():
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ArrowMind: Puzzle Path — Legal &amp; Support</title>
+<title>Arrow Mind: Puzzle Path — Legal &amp; Support</title>
 <style>{css}</style>
 </head>
 <body>
 <main>
-<h1>ArrowMind: Puzzle Path</h1>
+<h1>Arrow Mind: Puzzle Path</h1>
 <p class="sub">Legal and support pages for the mobile puzzle game.</p>
 <ul>
 {cards}
 </ul>
 <p class="langs">Available in: {langs}</p>
-<footer>ArrowMind: Puzzle Path is an independent game. Apple, App Store,
+<footer>Arrow Mind: Puzzle Path is an independent game. Apple, App Store,
 iPadOS, Google, Google Play and Android are trademarks of their respective owners.</footer>
 </main>
 </body>
@@ -266,7 +266,7 @@ iPadOS, Google, Google Play and Android are trademarks of their respective owner
 """.format(css=INDEX_CSS, cards="\n  ".join(cards), langs=langs)
 
 
-README = """# ArrowMind: Puzzle Path — legal & support pages
+README = """# Arrow Mind: Puzzle Path — legal & support pages
 
 Live site: **https://daymonth.github.io/arrow-mind-puzzle-path-legal/**
 Repository: `DayMonth/arrow-mind-puzzle-path-legal` (public, GitHub Pages from `main` / root).

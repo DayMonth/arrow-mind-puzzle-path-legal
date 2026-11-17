@@ -2,12 +2,12 @@
 
 DOC = {
     "en": {
-        "title": "Technical Support — ArrowMind: Puzzle Path",
-        "h1": "Technical Support — ArrowMind: Puzzle Path",
+        "title": "Technical Support — Arrow Mind: Puzzle Path",
+        "h1": "Technical Support — Arrow Mind: Puzzle Path",
         "lang": "en",
         "lead": [
             ("p", "<strong>Last updated:</strong> November 17, 2026"),
-            ("p", "This page explains how to get help with <strong>ArrowMind: Puzzle Path</strong> (bundle ID <code>com.lightgame.arrowmind</code>), answers the questions we receive most often, and tells you what to include so that we can fix a problem quickly."),
+            ("p", "This page explains how to get help with <strong>Arrow Mind: Puzzle Path</strong> (bundle ID <code>com.lightgame.arrowmind</code>), answers the questions we receive most often, and tells you what to include so that we can fix a problem quickly."),
             ("p", "The fastest way to reach us is email: <strong>PatricioSergio476@gmail.com</strong>. You can also use <em>Feedback</em> in the Game&rsquo;s Settings screen, which opens your mail app with the technical details already filled in."),
         ],
         "sections": [
@@ -63,7 +63,7 @@ DOC = {
             ("p", "<strong>PatricioSergio476@gmail.com</strong>"),
             ("p", "Please write in English, Chinese, Japanese, or Korean &mdash; we can read all five languages the Game supports."),
         ],
-        "note": "ArrowMind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
+        "note": "Arrow Mind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
     },
     "zh-CN": {
         "title": "技术支持 — ArrowMind：谜题之路",

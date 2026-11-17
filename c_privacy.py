@@ -5,12 +5,12 @@ Block format: ("h2", text) | ("p", html) | ("ul", [html, ...])
 
 DOC = {
     "en": {
-        "title": "Privacy Policy — ArrowMind: Puzzle Path",
-        "h1": "Privacy Policy — ArrowMind: Puzzle Path",
+        "title": "Privacy Policy — Arrow Mind: Puzzle Path",
+        "h1": "Privacy Policy — Arrow Mind: Puzzle Path",
         "lang": "en",
         "lead": [
             ("p", "<strong>Effective date:</strong> November 17, 2026 &nbsp; <strong>Last updated:</strong> November 17, 2026"),
-            ("p", "This Privacy Policy explains how the mobile game <strong>ArrowMind: Puzzle Path</strong> (the &ldquo;Game&rdquo;, bundle ID <code>com.lightgame.arrowmind</code>) handles information. The Game is developed and published by an independent developer (&ldquo;we&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;)."),
+            ("p", "This Privacy Policy explains how the mobile game <strong>Arrow Mind: Puzzle Path</strong> (the &ldquo;Game&rdquo;, bundle ID <code>com.lightgame.arrowmind</code>) handles information. The Game is developed and published by an independent developer (&ldquo;we&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;)."),
             ("p", "<strong>In short: the Game does not collect your personal data.</strong> It is a fully offline single-player puzzle game. It has no account system, no advertising, no analytics, and no tracking. Everything you do in the Game is stored on your own device and stays there."),
         ],
         "sections": [
@@ -62,7 +62,7 @@ DOC = {
             ("p", "<strong>PatricioSergio476@gmail.com</strong>"),
             ("p", "We aim to reply within 3 business days."),
         ],
-        "note": "ArrowMind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
+        "note": "Arrow Mind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
     },
     "zh-CN": {
         "title": "隐私政策 — ArrowMind：谜题之路",

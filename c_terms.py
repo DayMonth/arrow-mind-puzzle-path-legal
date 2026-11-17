@@ -2,12 +2,12 @@
 
 DOC = {
     "en": {
-        "title": "Terms of Service — ArrowMind: Puzzle Path",
-        "h1": "Terms of Service — ArrowMind: Puzzle Path",
+        "title": "Terms of Service — Arrow Mind: Puzzle Path",
+        "h1": "Terms of Service — Arrow Mind: Puzzle Path",
         "lang": "en",
         "lead": [
             ("p", "<strong>Effective date:</strong> November 17, 2026 &nbsp; <strong>Last updated:</strong> November 17, 2026"),
-            ("p", "These Terms of Service (&ldquo;Terms&rdquo;) are a legal agreement between you and the developer of <strong>ArrowMind: Puzzle Path</strong> (the &ldquo;Game&rdquo;, bundle ID <code>com.lightgame.arrowmind</code>) (&ldquo;we&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;). They govern your download, installation, and use of the Game."),
+            ("p", "These Terms of Service (&ldquo;Terms&rdquo;) are a legal agreement between you and the developer of <strong>Arrow Mind: Puzzle Path</strong> (the &ldquo;Game&rdquo;, bundle ID <code>com.lightgame.arrowmind</code>) (&ldquo;we&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;). They govern your download, installation, and use of the Game."),
             ("p", "<strong>Please read them.</strong> By downloading, installing, or playing the Game &mdash; or by tapping ACCEPT on the first-launch screen &mdash; you agree to these Terms and to our <a href=\"privacy-policy.html\">Privacy Policy</a>. If you do not agree, do not use the Game."),
             ("p", "If you are under the age of majority where you live, you may use the Game only with the involvement of a parent or guardian who agrees to these Terms on your behalf."),
         ],
@@ -27,7 +27,7 @@ DOC = {
                 "use the Game or its content to train, fine-tune, or otherwise develop machine-learning models without our written permission.",
             ]),
             ("h2", "3. Ownership and intellectual property"),
-            ("p", "The Game &mdash; including its code, artwork, animations, audio, level designs, text, logos, and the name &ldquo;ArrowMind: Puzzle Path&rdquo; &mdash; is owned by us or our licensors and is protected by copyright, trademark, and other laws. These Terms grant you no ownership interest in the Game and no right to use our names, logos, or branding except as part of normal, unmodified use of the Game."),
+            ("p", "The Game &mdash; including its code, artwork, animations, audio, level designs, text, logos, and the name &ldquo;Arrow Mind: Puzzle Path&rdquo; &mdash; is owned by us or our licensors and is protected by copyright, trademark, and other laws. These Terms grant you no ownership interest in the Game and no right to use our names, logos, or branding except as part of normal, unmodified use of the Game."),
             ("h2", "4. Cost, purchases, and virtual items"),
             ("p", "Version 1.0 of the Game is free to play. It contains <strong>no advertising and no in-app purchases</strong>, so there is nothing to buy inside the Game."),
             ("p", "Progress, stars, hearts, hints, streaks, and achievements (&ldquo;Virtual Items&rdquo;) are part of your local save file. They have <strong>no monetary value</strong>, cannot be exchanged for money or anything of value, cannot be transferred, and are lost if you delete the Game or lose your device. We do not sell Virtual Items and do not provide refunds for them."),
@@ -61,7 +61,7 @@ DOC = {
             ("p", "<strong>PatricioSergio476@gmail.com</strong>"),
             ("p", "We aim to reply within 3 business days."),
         ],
-        "note": "ArrowMind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
+        "note": "Arrow Mind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
     },
     "zh-CN": {
         "title": "服务条款 — ArrowMind：谜题之路",
