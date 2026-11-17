@@ -66,12 +66,12 @@ DOC = {
         "note": "Arrow Mind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
     },
     "zh-CN": {
-        "title": "技术支持 — ArrowMind：谜题之路",
-        "h1": "技术支持 — ArrowMind：谜题之路",
+        "title": "技术支持 — 箭头思维：谜题之路",
+        "h1": "技术支持 — 箭头思维：谜题之路",
         "lang": "zh-CN",
         "lead": [
             ("p", "<strong>最后更新：</strong>2026 年 11 月 17 日"),
-            ("p", "本页说明如何获取 <strong>ArrowMind：谜题之路</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）的帮助，回答我们最常收到的问题，并告诉你该提供哪些信息，以便我们尽快解决问题。"),
+            ("p", "本页说明如何获取 <strong>箭头思维：谜题之路</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）的帮助，回答我们最常收到的问题，并告诉你该提供哪些信息，以便我们尽快解决问题。"),
             ("p", "最快的联系方式是邮件：<strong>HaggisHackerott273@gmail.com</strong>。你也可以使用游戏设置中的<em>意见反馈</em>，它会打开邮件应用并自动填好技术信息。"),
         ],
         "sections": [
@@ -127,15 +127,15 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "请用英文、中文、日文或韩文写信——游戏支持的五种语言我们都能读。"),
         ],
-        "note": "《ArrowMind：谜题之路》是一款独立游戏。Apple、App Store、iPadOS、Google、Google Play 与 Android 是其各自所有者的商标。",
+        "note": "《箭头思维：谜题之路》是一款独立游戏。Apple、App Store、iPadOS、Google、Google Play 与 Android 是其各自所有者的商标。",
     },
     "zh-TW": {
-        "title": "技術支援 — ArrowMind：謎題之路",
-        "h1": "技術支援 — ArrowMind：謎題之路",
+        "title": "技術支援 — 箭頭思維：謎題之路",
+        "h1": "技術支援 — 箭頭思維：謎題之路",
         "lang": "zh-TW",
         "lead": [
             ("p", "<strong>最後更新：</strong>2026 年 11 月 17 日"),
-            ("p", "本頁說明如何取得 <strong>ArrowMind：謎題之路</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）的協助，回答我們最常收到的問題，並告訴你該提供哪些資訊，以便我們儘快解決問題。"),
+            ("p", "本頁說明如何取得 <strong>箭頭思維：謎題之路</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）的協助，回答我們最常收到的問題，並告訴你該提供哪些資訊，以便我們儘快解決問題。"),
             ("p", "最快的聯絡方式是電子郵件：<strong>HaggisHackerott273@gmail.com</strong>。你也可以使用遊戲設定中的<em>意見回饋</em>，它會開啟郵件應用程式並自動填好技術資訊。"),
         ],
         "sections": [
@@ -191,15 +191,15 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "請用英文、中文、日文或韓文寫信——遊戲支援的五種語言我們都能讀。"),
         ],
-        "note": "《ArrowMind：謎題之路》是一款獨立遊戲。Apple、App Store、iPadOS、Google、Google Play 與 Android 為其各自所有者的商標。",
+        "note": "《箭頭思維：謎題之路》是一款獨立遊戲。Apple、App Store、iPadOS、Google、Google Play 與 Android 為其各自所有者的商標。",
     },
     "ja": {
-        "title": "テクニカルサポート — ArrowMind：パズルパス",
-        "h1": "テクニカルサポート — ArrowMind：パズルパス",
+        "title": "テクニカルサポート — アローマインド：パズルパス",
+        "h1": "テクニカルサポート — アローマインド：パズルパス",
         "lang": "ja",
         "lead": [
             ("p", "<strong>最終更新日：</strong>2026年11月17日"),
-            ("p", "このページでは、<strong>ArrowMind：パズルパス</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）のサポート方法、よくあるご質問への回答、問題を迅速に解決するために必要な情報について説明します。"),
+            ("p", "このページでは、<strong>アローマインド：パズルパス</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）のサポート方法、よくあるご質問への回答、問題を迅速に解決するために必要な情報について説明します。"),
             ("p", "最も早い連絡方法はメールです：<strong>HaggisHackerott273@gmail.com</strong>。ゲームの設定画面にある<em>フィードバック</em>を使うと、技術情報が入力済みの状態でメールアプリが開きます。"),
         ],
         "sections": [
@@ -255,15 +255,15 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "英語、中国語、日本語、韓国語でご連絡ください。本ゲームが対応する 5 言語はいずれも読むことができます。"),
         ],
-        "note": "ArrowMind：パズルパスは独立したゲームです。Apple、App Store、iPadOS、Google、Google Play、Android は各社の商標です。",
+        "note": "アローマインド：パズルパスは独立したゲームです。Apple、App Store、iPadOS、Google、Google Play、Android は各社の商標です。",
     },
     "ko": {
-        "title": "기술 지원 — ArrowMind: 퍼즐 패스",
-        "h1": "기술 지원 — ArrowMind: 퍼즐 패스",
+        "title": "기술 지원 — 애로우 마인드: 퍼즐 패스",
+        "h1": "기술 지원 — 애로우 마인드: 퍼즐 패스",
         "lang": "ko",
         "lead": [
             ("p", "<strong>최종 업데이트:</strong> 2026년 11월 17일"),
-            ("p", "이 페이지에서는 <strong>ArrowMind: 퍼즐 패스</strong>(Bundle ID <code>com.lightgame.arrowmind</code>)에 대한 도움을 받는 방법, 자주 받는 질문의 답변, 그리고 문제를 신속히 해결하기 위해 필요한 정보를 안내합니다."),
+            ("p", "이 페이지에서는 <strong>애로우 마인드: 퍼즐 패스</strong>(Bundle ID <code>com.lightgame.arrowmind</code>)에 대한 도움을 받는 방법, 자주 받는 질문의 답변, 그리고 문제를 신속히 해결하기 위해 필요한 정보를 안내합니다."),
             ("p", "가장 빠른 연락 방법은 이메일입니다: <strong>HaggisHackerott273@gmail.com</strong>. 게임 설정 화면의 <em>피드백</em>을 사용하면 기술 정보가 미리 입력된 상태로 메일 앱이 열립니다."),
         ],
         "sections": [
@@ -319,6 +319,6 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "영어, 중국어, 일본어, 한국어로 연락해 주세요. 게임이 지원하는 다섯 개 언어를 모두 읽을 수 있습니다."),
         ],
-        "note": "ArrowMind: 퍼즐 패스는 독립 게임입니다. Apple, App Store, iPadOS, Google, Google Play, Android는 각 소유자의 상표입니다.",
+        "note": "애로우 마인드: 퍼즐 패스는 독립 게임입니다. Apple, App Store, iPadOS, Google, Google Play, Android는 각 소유자의 상표입니다.",
     },
 }

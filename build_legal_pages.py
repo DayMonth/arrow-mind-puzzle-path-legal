@@ -15,10 +15,10 @@ import c_support
 GAME_EN = "Arrow Mind: Puzzle Path"
 GAME_LOCAL = {
     "en": "Arrow Mind: Puzzle Path",
-    "zh-CN": "ArrowMind：谜题之路",
-    "zh-TW": "ArrowMind：謎題之路",
-    "ja": "ArrowMind：パズルパス",
-    "ko": "ArrowMind: 퍼즐 패스",
+    "zh-CN": "箭头思维：谜题之路",
+    "zh-TW": "箭頭思維：謎題之路",
+    "ja": "アローマインド：パズルパス",
+    "ko": "애로우 마인드: 퍼즐 패스",
 }
 LANG_ORDER = ["en", "zh-CN", "zh-TW", "ja", "ko"]
 LANG_LABEL = {

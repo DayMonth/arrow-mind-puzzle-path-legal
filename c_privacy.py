@@ -65,12 +65,12 @@ DOC = {
         "note": "Arrow Mind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.",
     },
     "zh-CN": {
-        "title": "隐私政策 — ArrowMind：谜题之路",
-        "h1": "隐私政策 — ArrowMind：谜题之路",
+        "title": "隐私政策 — 箭头思维：谜题之路",
+        "h1": "隐私政策 — 箭头思维：谜题之路",
         "lang": "zh-CN",
         "lead": [
             ("p", "<strong>生效日期：</strong>2026 年 11 月 17 日 &nbsp; <strong>最后更新：</strong>2026 年 11 月 17 日"),
-            ("p", "本隐私政策说明手机游戏 <strong>ArrowMind：谜题之路</strong>（以下简称“本游戏”，Bundle ID <code>com.lightgame.arrowmind</code>）如何处理信息。本游戏由独立开发者开发并发布（以下称“我们”）。"),
+            ("p", "本隐私政策说明手机游戏 <strong>箭头思维：谜题之路</strong>（以下简称“本游戏”，Bundle ID <code>com.lightgame.arrowmind</code>）如何处理信息。本游戏由独立开发者开发并发布（以下称“我们”）。"),
             ("p", "<strong>简单说：本游戏不收集你的个人数据。</strong> 它是一款完全离线的单机解谜游戏，没有账号系统、没有广告、没有统计分析，也不做任何追踪。你在游戏中的一切都只保存在你自己的设备上。"),
         ],
         "sections": [
@@ -122,15 +122,15 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "我们争取在 3 个工作日内回复。"),
         ],
-        "note": "《ArrowMind：谜题之路》是一款独立游戏。Apple、App Store、iPadOS、Google、Google Play 与 Android 是其各自所有者的商标。",
+        "note": "《箭头思维：谜题之路》是一款独立游戏。Apple、App Store、iPadOS、Google、Google Play 与 Android 是其各自所有者的商标。",
     },
     "zh-TW": {
-        "title": "隱私權政策 — ArrowMind：謎題之路",
-        "h1": "隱私權政策 — ArrowMind：謎題之路",
+        "title": "隱私權政策 — 箭頭思維：謎題之路",
+        "h1": "隱私權政策 — 箭頭思維：謎題之路",
         "lang": "zh-TW",
         "lead": [
             ("p", "<strong>生效日期：</strong>2026 年 11 月 17 日 &nbsp; <strong>最後更新：</strong>2026 年 11 月 17 日"),
-            ("p", "本隱私權政策說明手機遊戲 <strong>ArrowMind：謎題之路</strong>（以下稱「本遊戲」，Bundle ID <code>com.lightgame.arrowmind</code>）如何處理資訊。本遊戲由獨立開發者開發與發行（以下稱「我們」）。"),
+            ("p", "本隱私權政策說明手機遊戲 <strong>箭頭思維：謎題之路</strong>（以下稱「本遊戲」，Bundle ID <code>com.lightgame.arrowmind</code>）如何處理資訊。本遊戲由獨立開發者開發與發行（以下稱「我們」）。"),
             ("p", "<strong>簡單說：本遊戲不會蒐集你的個人資料。</strong> 它是一款完全離線的單機解謎遊戲，沒有帳號系統、沒有廣告、沒有分析統計，也不做任何追蹤。你在遊戲中的一切只會保存在你自己的裝置上。"),
         ],
         "sections": [
@@ -182,15 +182,15 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "我們目標在 3 個工作日內回覆。"),
         ],
-        "note": "《ArrowMind：謎題之路》是一款獨立遊戲。Apple、App Store、iPadOS、Google、Google Play 與 Android 為其各自所有者的商標。",
+        "note": "《箭頭思維：謎題之路》是一款獨立遊戲。Apple、App Store、iPadOS、Google、Google Play 與 Android 為其各自所有者的商標。",
     },
     "ja": {
-        "title": "プライバシーポリシー — ArrowMind：パズルパス",
-        "h1": "プライバシーポリシー — ArrowMind：パズルパス",
+        "title": "プライバシーポリシー — アローマインド：パズルパス",
+        "h1": "プライバシーポリシー — アローマインド：パズルパス",
         "lang": "ja",
         "lead": [
             ("p", "<strong>施行日：</strong>2026年11月17日 &nbsp; <strong>最終更新日：</strong>2026年11月17日"),
-            ("p", "本プライバシーポリシーは、モバイルゲーム <strong>ArrowMind：パズルパス</strong>（以下「本ゲーム」、Bundle ID <code>com.lightgame.arrowmind</code>）における情報の取り扱いについて説明するものです。本ゲームは個人開発者（以下「当方」）が開発・提供しています。"),
+            ("p", "本プライバシーポリシーは、モバイルゲーム <strong>アローマインド：パズルパス</strong>（以下「本ゲーム」、Bundle ID <code>com.lightgame.arrowmind</code>）における情報の取り扱いについて説明するものです。本ゲームは個人開発者（以下「当方」）が開発・提供しています。"),
             ("p", "<strong>結論から言うと、本ゲームはあなたの個人情報を収集しません。</strong> 完全オフラインのシングルプレイ専用パズルゲームであり、アカウント機能、広告、解析ツール、トラッキングは一切ありません。ゲーム内のデータはすべてお使いの端末内にのみ保存されます。"),
         ],
         "sections": [
@@ -242,15 +242,15 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "3 営業日以内の返信を心がけています。"),
         ],
-        "note": "ArrowMind：パズルパスは独立したゲームです。Apple、App Store、iPadOS、Google、Google Play、Android は各社の商標です。",
+        "note": "アローマインド：パズルパスは独立したゲームです。Apple、App Store、iPadOS、Google、Google Play、Android は各社の商標です。",
     },
     "ko": {
-        "title": "개인정보 처리방침 — ArrowMind: 퍼즐 패스",
-        "h1": "개인정보 처리방침 — ArrowMind: 퍼즐 패스",
+        "title": "개인정보 처리방침 — 애로우 마인드: 퍼즐 패스",
+        "h1": "개인정보 처리방침 — 애로우 마인드: 퍼즐 패스",
         "lang": "ko",
         "lead": [
             ("p", "<strong>시행일:</strong> 2026년 11월 17일 &nbsp; <strong>최종 업데이트:</strong> 2026년 11월 17일"),
-            ("p", "본 개인정보 처리방침은 모바일 게임 <strong>ArrowMind: 퍼즐 패스</strong>(이하 “본 게임”, Bundle ID <code>com.lightgame.arrowmind</code>)의 정보 처리 방식을 설명합니다. 본 게임은 개인 개발자(이하 “당사”)가 개발하고 배포합니다."),
+            ("p", "본 개인정보 처리방침은 모바일 게임 <strong>애로우 마인드: 퍼즐 패스</strong>(이하 “본 게임”, Bundle ID <code>com.lightgame.arrowmind</code>)의 정보 처리 방식을 설명합니다. 본 게임은 개인 개발자(이하 “당사”)가 개발하고 배포합니다."),
             ("p", "<strong>요약하자면, 본 게임은 이용자의 개인정보를 수집하지 않습니다.</strong> 완전히 오프라인으로 동작하는 싱글 플레이 퍼즐 게임으로, 계정 시스템, 광고, 분석 도구, 추적 기능이 전혀 없습니다. 게임 내의 모든 데이터는 이용자의 기기에만 저장됩니다."),
         ],
         "sections": [
@@ -302,6 +302,6 @@ DOC = {
             ("p", "<strong>HaggisHackerott273@gmail.com</strong>"),
             ("p", "영업일 기준 3일 이내에 답변드리도록 노력하겠습니다."),
         ],
-        "note": "ArrowMind: 퍼즐 패스는 독립 게임입니다. Apple, App Store, iPadOS, Google, Google Play, Android는 각 소유자의 상표입니다.",
+        "note": "애로우 마인드: 퍼즐 패스는 독립 게임입니다. Apple, App Store, iPadOS, Google, Google Play, Android는 각 소유자의 상표입니다.",
     },
 }
