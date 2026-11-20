@@ -12,7 +12,7 @@ DOC = {
         "lead": [
             ("p", "<strong>Effective date:</strong> November 19, 2026   <strong>Last updated:</strong> November 19, 2026"),
             ("p", "This Privacy Policy explains how the mobile game <strong>Arrow Mind: Puzzle Path</strong> (the “Game”, bundle ID <code>com.lightgame.arrowmind</code>) handles information. The Game is developed and published by an independent developer (“we”, “us”, “our”)."),
-            ("p", "<strong>In short:</strong> your progress and settings stay on your device. The Game is free and is supported by advertising, so it uses third-party analytics, attribution and advertising SDKs. Those SDKs receive device and advertising identifiers, ad interactions and gameplay events. On iOS we ask for App Tracking Transparency permission before any tracking; if you decline, the Game still works and you will see non-personalised ads. We do not collect your name, email address, phone number, contacts, photos, camera, microphone or precise location."),
+            ("p", "<strong>In short:</strong> your progress and settings stay on your device. The Game is free and is supported by advertising, so it uses third-party analytics, attribution and advertising SDKs. Those SDKs receive device and advertising identifiers, ad interactions and gameplay events. On iOS we ask for App Tracking Transparency permission before using your advertising identifier to track you across apps and websites; if you decline, the Game still works and you will see non-personalised ads. We do not collect your name, email address, phone number, contacts, photos, camera, microphone or precise location."),
         ],
         "sections": [
             ("h2", "1. Scope"),
@@ -61,7 +61,7 @@ DOC = {
         "lead": [
             ("p", "<strong>生效日期：</strong> 2026 年 11 月 19 日　　<strong>最后更新：</strong> 2026 年 11 月 19 日"),
             ("p", "本隐私政策说明手机游戏《箭头思维：谜题之路》（下称“本游戏”，Bundle ID <code>com.lightgame.arrowmind</code>）如何处理信息。本游戏由独立开发者开发与发布（下称“我们”）。"),
-            ("p", "<strong>简单说：</strong> 你的进度和设置只保存在设备上。本游戏免费，通过广告获得收入，因此接入了第三方的统计分析、归因和广告 SDK；这些 SDK 会接收设备标识符、广告标识符、广告互动和游戏事件。在 iOS 上，我们会先弹出“应用追踪透明度”（ATT）请求；你拒绝后游戏仍可正常游玩，只会看到非个性化广告。我们不收集你的姓名、邮箱、电话、通讯录、照片、相机、麦克风或精确位置。"),
+            ("p", "<strong>简单说：</strong> 你的进度和设置只保存在设备上。本游戏免费，通过广告获得收入，因此接入了第三方的统计分析、归因和广告 SDK；这些 SDK 会接收设备标识符、广告标识符、广告互动和游戏事件。在 iOS 上，我们会在使用广告标识符跨 App 与网站追踪你之前弹出“应用追踪透明度”（ATT）请求；你拒绝后游戏仍可正常游玩，只会看到非个性化广告。我们不收集你的姓名、邮箱、电话、通讯录、照片、相机、麦克风或精确位置。"),
         ],
         "sections": [
             ("h2", "1. 适用范围"),
@@ -110,7 +110,7 @@ DOC = {
         "lead": [
             ("p", "<strong>生效日期：</strong> 2026 年 11 月 19 日　　<strong>最後更新：</strong> 2026 年 11 月 19 日"),
             ("p", "本隱私權政策說明手機遊戲《箭頭思維：謎題之路》（下稱「本遊戲」，Bundle ID <code>com.lightgame.arrowmind</code>）如何處理資訊。本遊戲由獨立開發者開發與發行（下稱「我們」）。"),
-            ("p", "<strong>簡單說：</strong> 你的進度與設定只保存在裝置上。本遊戲免費，透過廣告取得收入，因此接入了第三方的分析、歸因與廣告 SDK；這些 SDK 會接收裝置識別碼、廣告識別碼、廣告互動與遊戲事件。在 iOS 上，我們會先顯示「App 追蹤透明度」（ATT）請求；你拒絕後遊戲仍可正常遊玩，只會看到非個人化廣告。我們不收集你的姓名、電子郵件、電話、聯絡人、照片、相機、麥克風或精確位置。"),
+            ("p", "<strong>簡單說：</strong> 你的進度與設定只保存在裝置上。本遊戲免費，透過廣告取得收入，因此接入了第三方的分析、歸因與廣告 SDK；這些 SDK 會接收裝置識別碼、廣告識別碼、廣告互動與遊戲事件。在 iOS 上，我們會在使用廣告識別碼跨 App 與網站追蹤你之前顯示「App 追蹤透明度」（ATT）請求；你拒絕後遊戲仍可正常遊玩，只會看到非個人化廣告。我們不收集你的姓名、電子郵件、電話、聯絡人、照片、相機、麥克風或精確位置。"),
         ],
         "sections": [
             ("h2", "1. 適用範圍"),
@@ -159,7 +159,7 @@ DOC = {
         "lead": [
             ("p", "<strong>施行日：</strong> 2026年11月19日　　<strong>最終更新日：</strong> 2026年11月19日"),
             ("p", "本プライバシーポリシーは、モバイルゲーム『アローマインド：パズルパス』（以下「本ゲーム」、Bundle ID <code>com.lightgame.arrowmind</code>）が情報をどのように扱うかを説明するものです。本ゲームは個人開発者によって開発・配信されています（以下「当方」）。"),
-            ("p", "<strong>要点：</strong> 進行状況と設定はお使いの端末にのみ保存されます。本ゲームは無料で、広告によって運営されているため、第三者の分析・アトリビューション・広告 SDK を利用しています。これらの SDK は、端末識別子、広告識別子、広告との操作、ゲーム内イベントを受け取ります。iOS では、トラッキングの前に App Tracking Transparency（ATT）の許可を求めます。許可しない場合もゲームはそのまま遊べ、広告は非パーソナライズ広告になります。氏名、メールアドレス、電話番号、連絡先、写真、カメラ、マイク、正確な位置情報は収集しません。"),
+            ("p", "<strong>要点：</strong> 進行状況と設定はお使いの端末にのみ保存されます。本ゲームは無料で、広告によって運営されているため、第三者の分析・アトリビューション・広告 SDK を利用しています。これらの SDK は、端末識別子、広告識別子、広告との操作、ゲーム内イベントを受け取ります。iOS では、広告識別子を使ってアプリやウェブサイトをまたいでトラッキングする前に、App Tracking Transparency（ATT）の許可を求めます。許可しない場合もゲームはそのまま遊べ、広告は非パーソナライズ広告になります。氏名、メールアドレス、電話番号、連絡先、写真、カメラ、マイク、正確な位置情報は収集しません。"),
         ],
         "sections": [
             ("h2", "1. 適用範囲"),
@@ -208,7 +208,7 @@ DOC = {
         "lead": [
             ("p", "<strong>시행일:</strong> 2026년 11월 19일　　<strong>최종 업데이트:</strong> 2026년 11월 19일"),
             ("p", "본 개인정보 처리방침은 모바일 게임 『애로우 마인드: 퍼즐 패스』(이하 \"본 게임\", Bundle ID <code>com.lightgame.arrowmind</code>)가 정보를 어떻게 처리하는지 설명합니다. 본 게임은 개인 개발자가 개발·배포합니다(이하 \"당사\")."),
-            ("p", "<strong>요약:</strong> 진행 상황과 설정은 기기에만 저장됩니다. 본 게임은 무료이며 광고로 운영되므로 제3자 분석·어트리뷰션·광고 SDK를 사용합니다. 이 SDK들은 기기 식별자, 광고 식별자, 광고 상호작용, 게임 이벤트를 수신합니다. iOS에서는 추적 전에 앱 추적 투명성(ATT) 권한을 요청합니다. 거부해도 게임은 그대로 플레이할 수 있으며 광고는 비맞춤형으로 표시됩니다. 이름, 이메일, 전화번호, 연락처, 사진, 카메라, 마이크, 정확한 위치는 수집하지 않습니다."),
+            ("p", "<strong>요약:</strong> 진행 상황과 설정은 기기에만 저장됩니다. 본 게임은 무료이며 광고로 운영되므로 제3자 분석·어트리뷰션·광고 SDK를 사용합니다. 이 SDK들은 기기 식별자, 광고 식별자, 광고 상호작용, 게임 이벤트를 수신합니다. iOS에서는 광고 식별자로 앱과 웹사이트를 넘나들며 추적하기 전에 앱 추적 투명성(ATT) 권한을 요청합니다. 거부해도 게임은 그대로 플레이할 수 있으며 광고는 비맞춤형으로 표시됩니다. 이름, 이메일, 전화번호, 연락처, 사진, 카메라, 마이크, 정확한 위치는 수집하지 않습니다."),
         ],
         "sections": [
             ("h2", "1. 적용 범위"),
