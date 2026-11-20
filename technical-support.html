@@ -25,6 +25,9 @@
   ul { padding-left: 1.35em; }
   hr { border: 0; border-top: 1px solid #464a8f; margin: 2em 0; }
   a { color: #8fd0ff; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .94rem; }
+  th, td { border: 1px solid #464a8f; padding: .45em .6em; text-align: left; vertical-align: top; }
+  th { background: #383d82; }
   code {
     background: #383d82; padding: .1em .35em; border-radius: 4px;
     font-size: .92em; word-break: break-word;
@@ -49,6 +52,8 @@
     em { color: #6b3a00; }
     a { color: #1d4ed8; }
     code { background: #e3e7ff; }
+    th, td { border-color: #cdd3f2; }
+    th { background: #eef1ff; }
     hr, footer { border-color: #cdd3f2; }
     .langnav { color: #5a5f88; }
     .langnav strong { color: #b36b00; }
@@ -60,29 +65,29 @@
 <main>
 <h1>Technical Support — Arrow Mind: Puzzle Path</h1>
 <p class="langnav"><strong>English</strong> · <a href="technical-support-cn.html" hreflang="zh-CN" lang="zh-CN">简体中文</a> · <a href="technical-support-tw.html" hreflang="zh-TW" lang="zh-TW">繁體中文</a> · <a href="technical-support-ja.html" hreflang="ja" lang="ja">日本語</a> · <a href="technical-support-ko.html" hreflang="ko" lang="ko">한국어</a></p>
-<p><strong>Last updated:</strong> November 17, 2026</p>
+<p><strong>Last updated:</strong> November 19, 2026</p>
 <p>This page explains how to get help with <strong>Arrow Mind: Puzzle Path</strong> (bundle ID <code>com.lightgame.arrowmind</code>), answers the questions we receive most often, and tells you what to include so that we can fix a problem quickly.</p>
-<p>The fastest way to reach us is email: <strong>HaggisHackerott273@gmail.com</strong>. You can also use <em>Feedback</em> in the Game&rsquo;s Settings screen, which opens your mail app with the technical details already filled in.</p>
+<p>The fastest way to reach us is email: <strong>HaggisHackerott273@gmail.com</strong>. You can also use <em>Feedback</em> in the Game’s Settings screen, which opens your mail app with the technical details already filled in.</p>
 <hr>
 <h2>1. Supported versions</h2>
 <ul>
 <li><strong>iOS / iPadOS:</strong> version 15.0 or later.</li>
 <li><strong>Android:</strong> version 7.0 (API 24) or later.</li>
-<li>An internet connection is <strong>not</strong> required to play. All levels, including the daily challenge, work fully offline.</li>
+<li>An internet connection is <strong>not</strong> required to solve levels. All levels, including the daily challenge, work fully offline. Advertising, attribution and analytics need a connection; if you are offline the Game still plays and ads are simply skipped.</li>
 </ul>
 <h2>2. Before you write to us</h2>
 <p>A few problems have a simple fix that is worth trying first:</p>
 <ul>
 <li><strong>Restart the Game</strong> completely (swipe it away from the app switcher) and open it again.</li>
 <li><strong>Restart your device.</strong> This clears most memory and audio-session problems.</li>
-<li><strong>Check for updates</strong> in the App Store or Google Play &mdash; the issue may already be fixed.</li>
+<li><strong>Check for updates</strong> in the App Store or Google Play — the issue may already be fixed.</li>
 <li><strong>Free up storage.</strong> The Game needs a small amount of free space to save progress.</li>
 </ul>
 <h2>3. Reporting a bug</h2>
 <p>Please include as much of the following as you can. A short, specific report is far more useful than a long one.</p>
 <ul>
-<li>the app version (Settings &rarr; About, or the store listing);</li>
-<li>your device model and OS version (for example &ldquo;iPhone 15, iOS 18.2&rdquo; or &ldquo;Pixel 8, Android 15&rdquo;);</li>
+<li>the app version (Settings → About, or the store listing);</li>
+<li>your device model and OS version (for example “iPhone 15, iOS 18.2” or “Pixel 8, Android 15”);</li>
 <li>the level number or screen where it happened;</li>
 <li>what you expected to happen and what actually happened;</li>
 <li>the steps that reproduce it, if you can repeat it;</li>
@@ -92,29 +97,29 @@
 <p><code>App version: / Device: / OS: / Level or screen: / What I did: / What happened: / What I expected:</code></p>
 <h2>4. Frequently asked questions</h2>
 <h3>I lost my progress after reinstalling. Can you restore it?</h3>
-<p>The Game saves progress only on your device; there is no account, cloud save, or server copy. If you delete the app, clear its storage, or move to a new device, that progress cannot be recovered by us or by anyone else. We are sorry &mdash; this is a deliberate privacy choice, not an oversight. Reinstalling does not reset progress as long as the app itself was not deleted.</p>
+<p>The Game saves progress only on your device; there is no account, cloud save, or server copy. If you delete the app, clear its storage, or move to a new device, that progress cannot be recovered by us or by anyone else. We are sorry — this is a deliberate privacy choice, not an oversight. Reinstalling does not reset progress as long as the app itself was not deleted.</p>
 <p>Tip: on iOS, an iCloud or computer backup taken before the change can restore the app and its data; on Android, a Google backup can do the same if backup was enabled.</p>
 <h3>How do I change the language?</h3>
 <p>Open <em>Settings</em> inside the Game and choose a language. The Game supports English, Simplified Chinese, Traditional Chinese, Japanese, and Korean, and it does not depend on your device language unless you leave the setting on automatic.</p>
 <h3>There is no sound, or music keeps stopping.</h3>
-<p>Check the in-game sound and music toggles first, then your device&rsquo;s silent switch, volume, and Focus / Do Not Disturb mode. On iOS, audio can also be interrupted by another app holding the audio session; closing that app or restarting the Game usually restores it.</p>
+<p>Check the in-game sound and music toggles first, then your device’s silent switch, volume, and Focus / Do Not Disturb mode. On iOS, audio can also be interrupted by another app holding the audio session; closing that app or restarting the Game usually restores it.</p>
 <h3>How do hearts (lives) work? Do I have to pay?</h3>
-<p>Each level starts with 3 hearts, and every mistake costs one. Starting the level again, or finishing it, refills them. If you run out, the Game offers a <strong>free revive</strong> that refills all 3 hearts so you can continue the same board &mdash; no video, no waiting, no purchase. The Game has no in-app purchases, so nothing in it costs money.</p>
+<p>Each level starts with 3 hearts, and every mistake costs one. Starting the level again, or finishing it, refills them. If you run out, the Game offers a <strong>free revive</strong> that refills all 3 hearts so you can continue the same board — no video, no waiting, no purchase. The Game has no in-app purchases, so nothing in it costs money.</p>
 <h3>The daily challenge did not appear, or shows the wrong day.</h3>
-<p>The daily challenge is generated from your device&rsquo;s local date, so it follows your time zone. Changing the time zone or the device clock can make today&rsquo;s challenge look different or already completed. Set the clock back to automatic and reopen the Game.</p>
+<p>The daily challenge is generated from your device’s local date, so it follows your time zone. Changing the time zone or the device clock can make today’s challenge look different or already completed. Set the clock back to automatic and reopen the Game.</p>
 <h3>The screen is stretched, cut off, or the buttons are too small.</h3>
-<p>The Game adapts to most aspect ratios, including notched and foldable devices. If something looks wrong, send us a screenshot with your device model &mdash; that is usually enough for us to fix the layout in the next update.</p>
+<p>The Game adapts to most aspect ratios, including notched and foldable devices. If something looks wrong, send us a screenshot with your device model — that is usually enough for us to fix the layout in the next update.</p>
 <h3>The Game is slow, hot, or drains the battery.</h3>
 <p>Close other apps, disable low-power mode temporarily, and make sure the Game is updated. Puzzle levels are lightweight, but a long session on a device with many background apps can still warm it up.</p>
 <h3>Can I play offline? Does it need permissions?</h3>
-<p>Yes, the whole Game works offline. It requests no sensitive permissions: no location, contacts, camera, microphone, photos, or tracking.</p>
+<p>The puzzles work fully offline. The Game does not request location, contacts, camera, microphone or photos. On iOS it shows the App Tracking Transparency prompt before using your advertising identifier (you can decline and still play), and iOS may ask for local network access when ads load. In the EEA and UK, a consent dialog for personalised advertising appears before ads are requested.</p>
 <h2>5. Privacy and data requests</h2>
-<p>The Game collects no personal data. You can delete all of its data by deleting the app. For requests about support emails we hold (access, correction, deletion), write to the address below and see our <a href="privacy-policy.html">Privacy Policy</a> for details.</p>
+<p>Your progress and settings stay on your device; deleting the app deletes them. The Game uses third-party analytics, attribution and advertising SDKs, which process device identifiers, ad interactions and gameplay events as described in our Privacy Policy (https://daymonth.github.io/arrow-mind-puzzle-path-legal/privacy-policy.html). For access, correction or deletion requests — including data held by those providers — write to the address below.</p>
 <h2>6. Response time</h2>
 <p>We are a small independent team. We aim to reply within <strong>3 business days</strong>, and sooner for problems that block play. Every report is read, even when a fix has to wait for the next release.</p>
 <h2>7. Contact</h2>
 <p><strong>HaggisHackerott273@gmail.com</strong></p>
-<p>Please write in English, Chinese, Japanese, or Korean &mdash; we can read all five languages the Game supports.</p>
+<p>Please write in English, Chinese, Japanese, or Korean — we can read all five languages the Game supports.</p>
 <hr>
 <p><em>Arrow Mind: Puzzle Path is an independent game. Apple, App Store, iPadOS, Google, Google Play, and Android are trademarks of their respective owners.</em></p>
 </main>

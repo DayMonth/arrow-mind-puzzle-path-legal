@@ -25,6 +25,11 @@ python3 build_legal_pages.py          # regenerate all 15 pages + index
 python3 build_legal_pages.py --check  # verify the published files are current
 ```
 
+The three content modules were regenerated on **2026-11-20** from the game
+repository's `docs/legal/*.md` (5 languages × privacy / terms / support). When the
+game repository's legal markdown changes, re-generate the modules from it first,
+then run the build — do not edit the HTML.
+
 Keep filenames stable: the app and the store listings hard-code them.
 
 ## Publishing an update

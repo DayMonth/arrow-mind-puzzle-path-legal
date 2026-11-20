@@ -25,6 +25,9 @@
   ul { padding-left: 1.35em; }
   hr { border: 0; border-top: 1px solid #464a8f; margin: 2em 0; }
   a { color: #8fd0ff; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .94rem; }
+  th, td { border: 1px solid #464a8f; padding: .45em .6em; text-align: left; vertical-align: top; }
+  th { background: #383d82; }
   code {
     background: #383d82; padding: .1em .35em; border-radius: 4px;
     font-size: .92em; word-break: break-word;
@@ -49,6 +52,8 @@
     em { color: #6b3a00; }
     a { color: #1d4ed8; }
     code { background: #e3e7ff; }
+    th, td { border-color: #cdd3f2; }
+    th { background: #eef1ff; }
     hr, footer { border-color: #cdd3f2; }
     .langnav { color: #5a5f88; }
     .langnav strong { color: #b36b00; }
@@ -60,7 +65,7 @@
 <main>
 <h1>技术支持 — 箭头思维：谜题之路</h1>
 <p class="langnav"><a href="technical-support.html" hreflang="en" lang="en">English</a> · <strong>简体中文</strong> · <a href="technical-support-tw.html" hreflang="zh-TW" lang="zh-TW">繁體中文</a> · <a href="technical-support-ja.html" hreflang="ja" lang="ja">日本語</a> · <a href="technical-support-ko.html" hreflang="ko" lang="ko">한국어</a></p>
-<p><strong>最后更新：</strong>2026 年 11 月 17 日</p>
+<p><strong>最后更新：</strong>2026 年 11 月 19 日</p>
 <p>本页说明如何获取 <strong>箭头思维：谜题之路</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）的帮助，回答我们最常收到的问题，并告诉你该提供哪些信息，以便我们尽快解决问题。</p>
 <p>最快的联系方式是邮件：<strong>HaggisHackerott273@gmail.com</strong>。你也可以使用游戏设置中的<em>意见反馈</em>，它会打开邮件应用并自动填好技术信息。</p>
 <hr>
@@ -68,7 +73,7 @@
 <ul>
 <li><strong>iOS / iPadOS：</strong>15.0 或更高版本。</li>
 <li><strong>Android：</strong>7.0（API 24）或更高版本。</li>
-<li>游玩<strong>不需要</strong>联网。包括每日挑战在内的全部关卡都可以完全离线游玩。</li>
+<li>解谜<strong>不需要</strong>联网。包括每日挑战在内的全部关卡都可以完全离线游玩。广告、归因与分析需要网络；没有网络时游戏照常可玩，广告会跳过。</li>
 </ul>
 <h2>2. 联系我们之前</h2>
 <p>有些问题有简单的解决办法，值得先试一下：</p>
@@ -81,7 +86,7 @@
 <h2>3. 报告问题</h2>
 <p>请尽量提供以下信息。简短而具体的报告，比长篇描述有用得多。</p>
 <ul>
-<li>应用版本（设置 &rarr; 关于，或商店页面）；</li>
+<li>应用版本（设置 → 关于，或商店页面）；</li>
 <li>设备型号与系统版本（例如“iPhone 15，iOS 18.2”或“Pixel 8，Android 15”）；</li>
 <li>出现问题的关卡编号或界面；</li>
 <li>你期望发生什么，实际发生了什么；</li>
@@ -107,9 +112,9 @@
 <h3>游戏卡顿、发热或耗电快。</h3>
 <p>请关闭其他应用、临时关闭低电量模式，并确认游戏已更新。解谜关卡本身很轻量，但在后台应用很多的设备上长时间游玩仍可能发热。</p>
 <h3>可以离线玩吗？需要什么权限？</h3>
-<p>可以，整个游戏都能离线游玩。它不申请任何敏感权限：不访问位置、通讯录、相机、麦克风、照片，也不做追踪。</p>
+<p>解谜部分可以完全离线游玩。游戏不申请位置、通讯录、相机、麦克风、照片权限。iOS 上，在使用广告标识符之前会弹出“应用追踪透明度”请求（你可以拒绝，游戏照常可玩）；加载广告时 iOS 可能询问本地网络权限。在 EEA 与英国，请求广告前会先弹出个性化广告同意框。</p>
 <h2>5. 隐私与数据请求</h2>
-<p>游戏不收集任何个人数据。删除应用即可删除全部游戏数据。对于我们持有的支持邮件（访问、更正、删除），请写信到下方地址；详情请见<a href="privacy-policy-cn.html">隐私政策</a>。</p>
+<p>你的进度与设置保存在设备上，删除应用即删除。游戏使用第三方的分析、归因与广告 SDK，会按隐私政策 (https://daymonth.github.io/arrow-mind-puzzle-path-legal/privacy-policy-cn.html) 所述处理设备标识符、广告互动与游戏事件。如需访问、更正或删除（包括上述服务商持有的数据），请写信到下方地址。</p>
 <h2>6. 回复时间</h2>
 <p>我们是小型独立团队，目标在 <strong>3 个工作日</strong>内回复，影响游玩的问题会更快。每一份报告我们都会读，即使修复要等到下个版本。</p>
 <h2>7. 联系方式</h2>

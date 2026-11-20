@@ -86,6 +86,9 @@ CSS = """
   ul { padding-left: 1.35em; }
   hr { border: 0; border-top: 1px solid #464a8f; margin: 2em 0; }
   a { color: #8fd0ff; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .94rem; }
+  th, td { border: 1px solid #464a8f; padding: .45em .6em; text-align: left; vertical-align: top; }
+  th { background: #383d82; }
   code {
     background: #383d82; padding: .1em .35em; border-radius: 4px;
     font-size: .92em; word-break: break-word;
@@ -110,6 +113,8 @@ CSS = """
     em { color: #6b3a00; }
     a { color: #1d4ed8; }
     code { background: #e3e7ff; }
+    th, td { border-color: #cdd3f2; }
+    th { background: #eef1ff; }
     hr, footer { border-color: #cdd3f2; }
     .langnav { color: #5a5f88; }
     .langnav strong { color: #b36b00; }
@@ -173,6 +178,8 @@ def render_blocks(blocks):
         elif kind == "ul":
             items = "\n".join("<li>%s</li>" % i for i in value)
             out.append("<ul>\n%s\n</ul>" % items)
+        elif kind == "table":
+            out.append(value)
     return "\n".join(out)
 
 

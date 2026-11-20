@@ -25,6 +25,9 @@
   ul { padding-left: 1.35em; }
   hr { border: 0; border-top: 1px solid #464a8f; margin: 2em 0; }
   a { color: #8fd0ff; }
+  table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .94rem; }
+  th, td { border: 1px solid #464a8f; padding: .45em .6em; text-align: left; vertical-align: top; }
+  th { background: #383d82; }
   code {
     background: #383d82; padding: .1em .35em; border-radius: 4px;
     font-size: .92em; word-break: break-word;
@@ -49,6 +52,8 @@
     em { color: #6b3a00; }
     a { color: #1d4ed8; }
     code { background: #e3e7ff; }
+    th, td { border-color: #cdd3f2; }
+    th { background: #eef1ff; }
     hr, footer { border-color: #cdd3f2; }
     .langnav { color: #5a5f88; }
     .langnav strong { color: #b36b00; }
@@ -60,7 +65,7 @@
 <main>
 <h1>テクニカルサポート — アローマインド：パズルパス</h1>
 <p class="langnav"><a href="technical-support.html" hreflang="en" lang="en">English</a> · <a href="technical-support-cn.html" hreflang="zh-CN" lang="zh-CN">简体中文</a> · <a href="technical-support-tw.html" hreflang="zh-TW" lang="zh-TW">繁體中文</a> · <strong>日本語</strong> · <a href="technical-support-ko.html" hreflang="ko" lang="ko">한국어</a></p>
-<p><strong>最終更新日：</strong>2026年11月17日</p>
+<p><strong>最終更新日：</strong>2026年11月19日</p>
 <p>このページでは、<strong>アローマインド：パズルパス</strong>（Bundle ID <code>com.lightgame.arrowmind</code>）のサポート方法、よくあるご質問への回答、問題を迅速に解決するために必要な情報について説明します。</p>
 <p>最も早い連絡方法はメールです：<strong>HaggisHackerott273@gmail.com</strong>。ゲームの設定画面にある<em>フィードバック</em>を使うと、技術情報が入力済みの状態でメールアプリが開きます。</p>
 <hr>
@@ -68,7 +73,7 @@
 <ul>
 <li><strong>iOS / iPadOS：</strong>15.0 以降。</li>
 <li><strong>Android：</strong>7.0（API 24）以降。</li>
-<li>プレイにインターネット接続は<strong>必要ありません</strong>。デイリーチャレンジを含むすべてのレベルが完全オフラインで動作します。</li>
+<li>パズルを解くのにインターネット接続は<strong>必要ありません</strong>。デイリーチャレンジを含むすべてのレベルが完全オフラインで動作します。広告・アトリビューション・分析には接続が必要で、オフラインでもゲームは遊べますが広告はスキップされます。</li>
 </ul>
 <h2>2. お問い合わせの前に</h2>
 <p>いくつかの問題は簡単な操作で解決できます。まずお試しください。</p>
@@ -81,7 +86,7 @@
 <h2>3. 不具合の報告</h2>
 <p>可能な範囲で以下をお知らせください。長い説明よりも、簡潔で具体的な報告のほうがはるかに役立ちます。</p>
 <ul>
-<li>アプリのバージョン（設定 &rarr; このアプリについて、またはストアページ）</li>
+<li>アプリのバージョン（設定 → このアプリについて、またはストアページ）</li>
 <li>端末のモデルと OS のバージョン（例：「iPhone 15、iOS 18.2」「Pixel 8、Android 15」）</li>
 <li>問題が発生したレベル番号または画面</li>
 <li>期待した動作と、実際に起きたこと</li>
@@ -107,9 +112,9 @@
 <h3>動作が重い、端末が熱くなる、バッテリーの減りが早い</h3>
 <p>他のアプリを閉じ、低電力モードを一時的に解除し、ゲームが最新版であることをご確認ください。パズルは軽量ですが、バックグラウンドアプリが多い端末で長時間プレイすると暖かくなることがあります。</p>
 <h3>オフラインで遊べますか？権限は必要ですか？</h3>
-<p>はい、ゲーム全体をオフラインで遊べます。位置情報、連絡先、カメラ、マイク、写真などの機密性の高い権限は要求せず、トラッキングも行いません。</p>
+<p>パズルは完全にオフラインで遊べます。位置情報、連絡先、カメラ、マイク、写真の権限は要求しません。iOS では、広告識別子を使用する前に App Tracking Transparency の許可を求めます（拒否しても遊べます）。広告の読み込み時にローカルネットワークへのアクセスを求められる場合があります。EEA と英国では、広告のリクエスト前にパーソナライズ広告の同意画面が表示されます。</p>
 <h2>5. プライバシーとデータの請求</h2>
-<p>本ゲームは個人情報を収集しません。アプリを削除するとすべてのゲームデータが削除されます。当方が保有するサポートメール（アクセス、訂正、削除）については下記アドレスまでご連絡ください。詳細は<a href="privacy-policy-ja.html">プライバシーポリシー</a>をご覧ください。</p>
+<p>進行状況と設定は端末に保存され、アプリを削除すると消去されます。本ゲームは第三者の分析・アトリビューション・広告 SDK を利用しており、プライバシーポリシー (https://daymonth.github.io/arrow-mind-puzzle-path-legal/privacy-policy-ja.html) のとおり端末識別子、広告との操作、ゲーム内イベントを処理します。アクセス・訂正・削除（上記事業者が保有するデータを含む）をご希望の場合は下記アドレスまでご連絡ください。</p>
 <h2>6. 回答までの時間</h2>
 <p>当方は小規模な個人開発チームです。<strong>3 営業日以内</strong>の返信を目標としており、プレイを妨げる問題にはより早く対応します。修正が次回リリースまでかかる場合でも、すべての報告に目を通します。</p>
 <h2>7. お問い合わせ</h2>
